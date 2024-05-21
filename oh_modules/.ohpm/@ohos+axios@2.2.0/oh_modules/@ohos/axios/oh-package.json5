@@ -1,0 +1,26 @@
+{
+  "types": "index.d.ts",
+  "keywords": [
+    "OpenHarmony",
+    "HarmonyOS",
+    "http",
+    "request",
+    "axios"
+  ],
+  "author": "ohos_tpc",
+  "ohos": {
+    "org": "opensource"
+  },
+  "description": "Axios ，是一个基于 promise 的网络请求库。本库基于npm Axios 原库进行适配，使其可以运行在 OpenHarmony，并沿用其现有用法和特性。",
+  "main": "index.js",
+  "repository": "https://gitee.com/openharmony-sig/ohos_axios.git",
+  "type": "module",
+  "version": "2.2.0",
+  "tags": [
+    "Network"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {},
+  "name": "@ohos/axios"
+}

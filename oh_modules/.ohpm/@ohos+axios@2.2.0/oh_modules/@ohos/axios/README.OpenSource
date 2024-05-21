@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "axios",
+        "License": "MIT",
+        "License File": " LICENSE ",
+        "Version Number": "v1.3.4",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "github.com/axios/axios",
+        "Description": "Promise based HTTP client for the browser and node.js"
+    }
+]
