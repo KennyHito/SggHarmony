@@ -1,10 +1,5 @@
 
 # 留学助手项目
-[功能与需求分析PPT](report/功能与需求分析0429.pdf)
-
-[结项汇报PPT](report/结项0513.pdf)
-
-[演示视频](https://pan.baidu.com/s/1O6H_1iVqSPx9W6h6Etg9Zw?pwd=lbyt)
 
 ## 一、项目简介
 在当今全球化的时代，留学已经成为许多人实现个人及职业发展目标的重要途径之一。由于涉及到语言考试、多项材料的准备、各种信息的获取和各种选择的权衡，许多人可能感到迷茫和无措。留学申请过程的复杂性常常令人望而却步。
@@ -55,10 +50,4 @@
 
 
 ## 参考
-[尚硅谷2024最新鸿蒙开发HarmonyOS4.0+鸿蒙NEXT星河版零基础教程](https://www.bilibili.com/video/BV1Ti4y1s79B/?p=72&spm_id_from=333.880.my_history.page.click)
-
-[HarmonyOS 4.0 应用开发](https://www.yuque.com/danny-sroga/gaguqh/qg2n2d5o04iu1gsm?singleDoc#vCJBv  ) 
-密码：gps8
-
-[HarmonyOS 4.0实战项目之单词打卡](https://www.yuque.com/danny-sroga/gaguqh/eocenh0ig73g9ymq?singleDoc#O56iD) 
-密码：za5u
+[尚硅谷2024最新鸿蒙开发HarmonyOS4.0+鸿蒙NEXT星河版零基础教程](https://www.bilibili.com/video/BV1Ti4y1s79B?p=1&vd_source=0aba82a4002c00e3a072b82df5f53868)
