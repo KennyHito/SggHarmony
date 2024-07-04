@@ -51,6 +51,7 @@
 
 ## 参考
 [尚硅谷2024最新鸿蒙开发HarmonyOS4.0+鸿蒙NEXT星河版零基础教程](https://www.bilibili.com/video/BV1Ti4y1s79B?p=1&vd_source=0aba82a4002c00e3a072b82df5f53868)
+
 [HarmonyOS 4.0 应用开发](https://www.yuque.com/danny-sroga/gaguqh/qg2n2d5o04iu1gsm?singleDoc#vCJBv  ) 
 密码：gps8
 
