@@ -1,6 +1,15 @@
 
 # 留学助手项目
 
+## 在线文档和视频
+[尚硅谷2024最新鸿蒙开发HarmonyOS4.0+鸿蒙NEXT星河版零基础教程](https://www.bilibili.com/video/BV1Ti4y1s79B?p=1&vd_source=0aba82a4002c00e3a072b82df5f53868)
+
+[HarmonyOS 4.0 应用开发](https://www.yuque.com/danny-sroga/gaguqh/qg2n2d5o04iu1gsm?singleDoc#vCJBv  ) 
+密码：gps8
+
+[HarmonyOS 4.0实战项目之单词打卡](https://www.yuque.com/danny-sroga/gaguqh/eocenh0ig73g9ymq?singleDoc#O56iD) 
+密码：za5u
+
 ## 一、项目简介
 在当今全球化的时代，留学已经成为许多人实现个人及职业发展目标的重要途径之一。由于涉及到语言考试、多项材料的准备、各种信息的获取和各种选择的权衡，许多人可能感到迷茫和无措。留学申请过程的复杂性常常令人望而却步。
 
@@ -47,13 +56,3 @@
 
 #### 3.4留学日历子系统UML图
 ![img_9.png](img/img_14.png)
-
-
-## 参考
-[尚硅谷2024最新鸿蒙开发HarmonyOS4.0+鸿蒙NEXT星河版零基础教程](https://www.bilibili.com/video/BV1Ti4y1s79B?p=1&vd_source=0aba82a4002c00e3a072b82df5f53868)
-
-[HarmonyOS 4.0 应用开发](https://www.yuque.com/danny-sroga/gaguqh/qg2n2d5o04iu1gsm?singleDoc#vCJBv  ) 
-密码：gps8
-
-[HarmonyOS 4.0实战项目之单词打卡](https://www.yuque.com/danny-sroga/gaguqh/eocenh0ig73g9ymq?singleDoc#O56iD) 
-密码：za5u
